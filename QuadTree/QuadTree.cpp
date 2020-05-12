@@ -1,5 +1,7 @@
-// QuadTree.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/* Copyright (C) Chad McKinney - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ */
 
 #include <iostream>
 #include <memory>
